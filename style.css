@@ -1,0 +1,22 @@
+.header .links a{
+    margin-right: 2rem;
+    font-weight: 700;
+}
+.header .list .bi-list{
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+.header .list .bi-list:hover{
+    color: darkorange;
+}
+.name{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.social-media{
+    flex-wrap: wrap;
+}
+.social-media i:hover{
+    background: lightgray;
+
+}
